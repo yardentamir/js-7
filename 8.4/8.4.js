@@ -19,6 +19,5 @@
     const max = Math.max(...onlyObjValues);
     return max;
   };
-  console.log("max value: " + countLetters(array));
   console.log(myObj);
 })();
