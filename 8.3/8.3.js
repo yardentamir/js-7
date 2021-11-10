@@ -54,6 +54,5 @@
   };
 
   console.log(myBook1);
-  console.log(myBook2);
   console.log(bookUtils.isSamePublisher(myBook1, myBook2));
 })();
